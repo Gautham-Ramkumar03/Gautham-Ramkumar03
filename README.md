@@ -1,51 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0050A0&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Gautham+Ramkumar!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Greeting" />
-</h1>
+# <div align="center">👋 Hello, World! I'm Gautham Ramkumar 🌟</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0050A0&center=true&vCenter=true&width=800&height=100&lines=Robotics+%26+Automation+Engineer+🤖;AI+and+Computer+Vision+Enthusiast+👁️;Vedic+Astrology+Explorer+🔮;Innovator+Blending+Tradition+%26+Tech+🚀" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=00A0FF&center=true&vCenter=true&width=600&height=70&lines=Robotics+%26+Automation+Engineer;AI+and+Computer+Vision+Enthusiast;Vedic+Astrology+Explorer;Innovator+Blending+Tradition+%26+Tech" alt="Typing SVG" />
-</p>
+---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<h2>🤖 About Me</h2>
+## 🤖 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Robotics & Automation Engineering student passionate about merging cutting-edge technology with ancient wisdom. As RoboClub President, I lead innovative projects in:
-
+🎓 Robotics & Automation Engineering student<br>
+🔬 Passionate about merging cutting-edge tech with ancient wisdom<br>
+👑 RoboClub President, leading innovative projects in:
 - 🚗 Autonomous systems
 - 👁️ Computer vision
 - 🌟 Vedic astrology
 
-My unique approach combines modern engineering with age-old Indian knowledge, aiming to create technology that enhances lives. I'm driven by the goal of developing solutions that seamlessly blend tradition and innovation.
-
-Always eager to learn and contribute, I'm excited to tackle new challenges in robotics, AI, and beyond. My mission is to make a positive impact through technology, wherever my skills can be best applied.
+🌈 My mission: Create technology that enhances lives by blending tradition and innovation
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gautham-Ramkumar03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h2>🎓 Education</h2>
+---
+
+## 🎓 Education
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="30"/></td>
-    <td><strong>B.E. Robotics & Automation</strong><br>Sri Ramakrishna Engineering College (2021 - Present)<br>CGPA: 9.04/10</td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
+    <td>
+      <strong>B.E. Robotics & Automation</strong><br>
+      Sri Ramakrishna Engineering College (2021 - Present)<br>
+      CGPA: 9.04/10
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/iot.png" width="30"/></td>
-    <td><strong>Minor in IoT</strong><br>Sri Ramakrishna Engineering College (2021 - Present)<br>CGPA: 9.00/10</td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
+    <td>
+      <strong>Minor in IoT</strong><br>
+      Sri Ramakrishna Engineering College (2021 - Present)<br>
+      CGPA: 9.00/10
+    </td>
   </tr>
 </table>
 
-<h2>💼 Professional Experience</h2>
+---
+
+## 💼 Professional Experience
 
 <details>
 <summary><b>🚀 Robotics Engineering Intern at Flo Mobility, Bangalore (June - July 2024)</b></summary>
@@ -57,7 +64,13 @@ Always eager to learn and contribute, I'm excited to tackle new challenges in ro
 </ul>
 </details>
 
-<h2>🛠 Technical Skills</h2>
+---
+
+## 🛠 Technical Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -71,49 +84,50 @@ Always eager to learn and contribute, I'm excited to tackle new challenges in ro
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
 </p>
 
-<h2>🚀 Projects</h2>
+---
+
+## 🚀 Projects
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/robot-2.png" width="30"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
     <td><strong>Autonomous Lawnmower Robot</strong><br>Advanced obstacle avoidance using ROS2 and computer vision</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/fire-extinguisher.png" width="30"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
     <td><strong>Acoustic Fire Extinguisher</strong><br>Innovative fire extinguishing using low-frequency sound waves</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/f1-race-car-top-veiw.png" width="30"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
     <td><strong>High-Speed Line Follower Robot</strong><br>Autonomous navigation for complex tracks</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/toilet-bowl.png" width="30"/></td>
+    <td align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/></td>
     <td><strong>Smart Toilet IoT Project</strong><br>Automated self-cleaning toilet with IoT integration</td>
   </tr>
 </table>
 
-<h2>🏆 Achievements & Certifications</h2>
+---
 
-<ul>
-  <li>🎓 Cambridge University Business English Certificate (Preliminary) - Passed with Merit (Score: 159/165)</li>
-  <li>📚 NPTEL Online Certifications:
-    <ul>
-      <li>"Introduction to Industry 4.0 and Industrial Internet of Things" (Score: 86/100)</li>
-      <li>"Blockchain and its Applications" (Score: 66/100)</li>
-    </ul>
-  </li>
-</ul>
+## 🏆 Achievements & Certifications
 
-<h2>🌟 Leadership & Extracurricular Activities</h2>
+- 🎓 Cambridge University Business English Certificate (Preliminary) - Passed with Merit (Score: 159/165)
+- 📚 NPTEL Online Certifications:
+  - "Introduction to Industry 4.0 and Industrial Internet of Things" (Score: 86/100)
+  - "Blockchain and its Applications" (Score: 66/100)
 
-<ul>
-  <li>👑 President, RoboClub, Sri Ramakrishna Engineering College</li>
-  <li>🎭 Class Representative, Robotics Department (2022-23)</li>
-  <li>🤝 Member, NSS, The Robotic Society</li>
-  <li>🎺 Musical Instruments: Trumpet, Trombone, Euphonium (4 years in school band)</li>
-</ul>
+---
 
-<h2>🌈 Additional Skills</h2>
+## 🌟 Leadership & Extracurricular Activities
+
+- 👑 President, RoboClub, Sri Ramakrishna Engineering College
+- 🎭 Class Representative, Robotics Department (2022-23)
+- 🤝 Member, NSS, The Robotic Society
+- 🎺 Musical Instruments: Trumpet, Trombone, Euphonium (4 years in school band)
+
+---
+
+## 🌈 Additional Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
@@ -122,7 +136,9 @@ Always eager to learn and contribute, I'm excited to tackle new challenges in ro
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </p>
 
-<h2>🌍 Languages</h2>
+---
+
+## 🌍 Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English">
@@ -133,18 +149,22 @@ Always eager to learn and contribute, I'm excited to tackle new challenges in ro
   <img src="https://img.shields.io/badge/Hindi-Beginner-orange?style=for-the-badge" alt="Hindi">
 </p>
 
-<h2>📊 GitHub Stats</h2>
+---
 
-<p align="center">
+## 📊 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=radical" alt="Gautham's GitHub stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautham-Ramkumar03&theme=radical" alt="Gautham's GitHub streak" height="165">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=compact&theme=radical" alt="Top Languages">
-</p>
+</div>
 
-<h2>📫 Let's Connect!</h2>
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:gauthamramkumar03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -153,16 +173,13 @@ Always eager to learn and contribute, I'm excited to tackle new challenges in ro
   <a href="https://www.instagram.com/neonnitronate?igsh=M2hoYnU2aHQ0ejJi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Thank You" width="150">
-</p>
-
-<h3 align="center">Thank you for visiting my profile! 😊</h3>
+  <h3>Thank you for visiting my profile! 😊</h3>
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://profile-counter.glitch.me/Gautham-Ramkumar03/count.svg" alt="Visitor Count" />
 </p>
