@@ -119,26 +119,8 @@
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=donut&theme=tokyonight&hide_border=true" />
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=pie&theme=tokyonight&hide_border=true" />
 
-<!-- Detailed contribution stats -->
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gautham-Ramkumar03&theme=tokyo_night" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gautham-Ramkumar03&theme=tokyo_night" />
-
 </div>
 
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-| Domain | Technologies | Status |
-|--------|-------------|--------|
-| **Spatial AI** | Computer Vision, 3D Mapping, SLAM | 🔥 Active |
-| **Embodied AI** | Robot Learning, Sim-to-Real | 🚀 Exploring |
-| **Edge AI** | TensorRT, DeepStream, ESP32 | ⚡ Optimizing |
-| **Open Source** | ROS2, Hardware Integration | 🌟 Contributing |
-
-</div>
 
 ---
 
@@ -147,11 +129,11 @@
 <div align="center">
 
 <a href="https://github.com/Gautham-Ramkumar03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=your-awesome-project&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Gautham-Ramkumar03">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=another-cool-project&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
