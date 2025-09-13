@@ -169,41 +169,42 @@ Rocker-bogie mechanism for complex terrain
 
 ---
 
-## 📡 Let's Connect!
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,18,25&height=2&section=header&text=&fontSize=0" width="100%"/>
+
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-ramkumar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamramkumar03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautham-Ramkumar03)
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/gautham-ramkumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="mailto:gauthamramkumar03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Gautham-Ramkumar03">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
 
+<br>
+
+<div align="center">
+<i>"Building bridges between the physical and digital worlds, one commit at a time."</i>
 </div>
 
----
+<br>
 
-<div align="center">
-
-### 💭 Philosophy
-
-*"The future belongs to those who can seamlessly bridge the physical and digital realms.  
-Every line of code, every circuit designed, every robot built - they're all stepping stones  
-towards a world where technology serves humanity with wisdom and compassion."*
-
----
-
-**⭐ If you find my work interesting, don't forget to star some repos!**  
-**🤝 Open to collaborations, discussions, and building amazing things together!**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gautham-Ramkumar03&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/Gautham-Ramkumar03/Gautham-Ramkumar03/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
