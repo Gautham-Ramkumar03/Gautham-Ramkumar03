@@ -1,200 +1,159 @@
-# Hi there, I'm Gautham! 👋🤖
+# Hi there, I'm Gautham Ramkumar 👋
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&background=0D111700&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer;Hardware+%E2%86%94%EF%B8%8F+Software+Integration;End-to-End+Robot+Development;Open+Source+Enthusiast+%F0%9F%9A%80)
-
-</div>
-
-## 🌟 About Me
-
-```python
-class GauthamRamkumar:
-    def __init__(self):
-        self.role = "Robotics & AI Engineer @ Flo Mobility"
-        self.location = "Bangalore, India 🇮🇳"
-        self.passions = [
-            "🤖 End-to-End Robotics",
-            "⚡ Hardware ↔️ Software Integration", 
-            "🌐 Open Source Contributions",
-            "🔬 Embodied AI & Spatial Intelligence",
-            "⭐ Vedic Astrology"
-        ]
-        self.current_focus = ["Reinforcement Learning", "Computer Vision", "ROS2"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future together 🚀")
-
-me = GauthamRamkumar()
-me.say_hi()
-```
-
-<div align="center">
-
-### 🔭 Currently Working On
-**Multi-Camera Perception Pipelines** • **Autonomous Navigation Systems** • **DeepStream YOLO Toolkit**
-
-### 🌱 Learning & Exploring
-**Spatial AI** • **Embodied Intelligence** • **Advanced RL Algorithms**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Engineer;End-to-End+Hardware+%2B+Software+Integration;Spatial+AI+%7C+Embodied+AI+%7C+RL+Enthusiast;Open+Source+Contributor;Vedic+Astrology+Explorer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🚀 About Me
 
-<div align="center">
-
-### 🤖 Robotics & AI
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 💻 Programming & Systems
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔧 Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-  
 <table>
 <tr>
 <td width="50%">
 
-### 🎥 [DeepStream YOLO Toolkit](https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit)
-Production-ready multi-camera data collection pipeline on NVIDIA DeepStream 7.0
-- Real-time YOLO detection
-- Multi-camera fusion (ZED, e-CAM, OAK-D)
-- Field deployment optimized
+**Professional Focus**
+- 🤖 **End-to-End Robotics** - Hardware meets Software
+- 🧠 **AI Research Areas**: Reinforcement Learning, Spatial AI, Embodied AI
+- 🔧 **Integration Specialist**: Making complex systems work seamlessly
+- 🌍 **Open Source Advocate**: Contributing to the community
 
 </td>
 <td width="50%">
 
-### 🧭 [NoMaD Navigation](https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2)
-Diffusion-based visual navigation for robotic lawnmowers
-- State-of-the-art diffusion policies
-- ROS2 + Arducam integration
-- Autonomous outdoor navigation
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔥 Acoustic Fire Extinguisher
-**🏆 1st Prize @ SREC Innovate 2k23**
-- Non-chemical fire suppression
-- Low-frequency acoustic waves
-- Novel firefighting approach
-
-</td>
-<td width="50%">
-
-### 🦾 Ascend: Stair-Climbing Robot
-Rocker-bogie mechanism for complex terrain
-- 15cm stair climbing capability
-- 3kg payload capacity
-- MATLAB Simscape optimization
+**Personal Interests**
+- ⭐ **Vedic Astrology** - Ancient wisdom meets modern tech
+- 🛠️ **Innovation Driven** - Always building the next big thing
+- 🎯 **Problem Solver** - Love tackling complex challenges
+- 🌟 **Continuous Learner** - Tech evolves, so do I
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gautham-Ramkumar03&theme=tokyonight)
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-</div>
+### Hardware Platforms
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
+### AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-🥇 **Best Outgoing Student** - Robotics & Automation Dept, SREC (2025)  
-🏆 **Winner** - SREC Innovate 2023 (45+ teams)  
-🥇 **Champion** - GENESIS 2k23 Line Following Robot Race  
-👑 **President** - SREC RoboClub (2023-2024)  
-📜 **IELTS Band 8** | **Elite Certifications** in ML & Industry 4.0  
-
-</div>
-
----
-
-## 🎭 Fun Facts About Me
-
-<div align="center">
-
-```
-🎺 I play Trumpet, Trombone & Euphonium (4 years of brass magic!)
-⭐ Vedic Astrology enthusiast - bridging ancient wisdom with modern tech
-🌏 Polyglot in progress: Tamil, English, Malayalam, French, Japanese, Hindi
-🎨 Adobe Creative Suite wizard in spare time
-🔮 Believe that the best robots are built with both logic and intuition
-```
+### Specialized Tools
+![DeepStream](https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OAK-D](https://img.shields.io/badge/OAK--D-FF6B6B?style=for-the-badge&logo=camera&logoColor=white)
+![ZED](https://img.shields.io/badge/ZED%20Camera-00D4FF?style=for-the-badge&logo=camera&logoColor=white)
+![NoMAD](https://img.shields.io/badge/NoMAD-4CAF50?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
 ---
 
-## 📡 Let's Connect!
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautham-ramkumar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauthamramkumar03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautham-Ramkumar03)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautham-Ramkumar03&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## 🏆 Achievement Showcase
+	
 <div align="center">
 
-### 💭 Philosophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gautham-Ramkumar03&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-*"The future belongs to those who can seamlessly bridge the physical and digital realms.  
-Every line of code, every circuit designed, every robot built - they're all stepping stones  
-towards a world where technology serves humanity with wisdom and compassion."*
+</div>
 
 ---
 
-**⭐ If you find my work interesting, don't forget to star some repos!**  
-**🤝 Open to collaborations, discussions, and building amazing things together!**
+## 📈 Contribution Activity
+
+<div align="center">
+
+
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautham-Ramkumar03&theme=tokyo-night&hide_border=true&area=true)
+
+
+<!-- Commit Calendar -->
+<img width="98%" src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=20&card_width=800" />
+
+</div>
 
 ---
+
+## 🔥 Coding Metrics & Wakatime Stats
+
+<div align="center">
+
+<!-- Language Stats in different formats -->
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=donut&theme=tokyonight&hide_border=true" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautham-Ramkumar03&layout=pie&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+---
+
+## 💡 Featured Projects Highlight
+
+<div align="center">
+
+<a href="https://github.com/Gautham-Ramkumar03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Gautham-Ramkumar03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:gauthamramkumar03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gautham-ramkumar-81a8742a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Gautham-Ramkumar03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/neonnitronate?igsh=M2hoYnU2aHQ0ejJi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+---
+
+<div align="center">
+
+### "Building the future where AI meets the physical world"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gautham-Ramkumar03&color=blueviolet&style=for-the-badge)
 
@@ -204,6 +163,8 @@ towards a world where technology serves humanity with wisdom and compassion."*
 
 <div align="center">
   
-![Snake animation](https://github.com/Gautham-Ramkumar03/Gautham-Ramkumar03/blob/output/github-contribution-grid-snake.svg)
+**💼 Open for exciting collaborations in AI, Robotics, and Open Source projects**
+
+*Let's build something incredible together!*
 
 </div>
