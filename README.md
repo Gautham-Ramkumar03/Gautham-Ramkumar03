@@ -93,19 +93,15 @@
 
 ---
 
-## 📈 Contribution Activity & Snake Game
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/Gautham-Ramkumar03/Gautham-Ramkumar03/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautham-Ramkumar03&theme=tokyo-night&hide_border=true&area=true)
 
-<!-- Additional Crazy Stats -->
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gautham-Ramkumar03&theme=tokyo_night" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gautham-Ramkumar03&theme=tokyo_night&utcOffset=8" />
 
 <!-- Commit Calendar -->
 <img width="98%" src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=20&card_width=800" />
