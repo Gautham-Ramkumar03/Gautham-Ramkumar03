@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 🎯 Building intelligent systems that move, learn, and adapt
+##  Building intelligent systems that move, learn, and adapt
 
 </div>
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Expertise
+###  Expertise
 
 ```python
 skills = {
@@ -42,7 +42,7 @@ skills = {
 </td>
 <td width="50%" valign="top">
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gautham-Ramkumar03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="100%" />
 
@@ -56,7 +56,7 @@ skills = {
 
 <div align="center">
 
-## 🚀 Featured Repositories
+##  Featured Repositories
 
 <a href="https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B00&text_color=FFFFFF" />
@@ -89,7 +89,7 @@ skills = {
 
 <div align="center">
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gautham-Ramkumar03&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B00&point=FFFFFF&area=true&custom_title=Contribution%20Timeline)](https://github.com/Gautham-Ramkumar03)
 
