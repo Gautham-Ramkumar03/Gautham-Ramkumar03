@@ -22,19 +22,22 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Core Focus
+### 💼 Expertise
 
 ```python
-expertise = {
-    "domains": ["Physical AI", "Embodied Intelligence"],
-    "models": ["VLA", "SLMs", "RL Policies"],
-    "stack": ["ROS2", "PyTorch", "TensorRT"],
-    "hardware": ["Jetson", "OAK-D", "Custom Rigs"]
+skills = {
+    "languages": ["Python", "C/C++", "Embedded C"],
+    "robotics": ["ROS2", "MoveIt", "Gazebo"],
+    "cv_ml": ["YOLO", "PyTorch", "TensorRT", "DeepStream"],
+    "hardware": ["Jetson AGX Orin", "OAK-D", "ZED 2i"],
+    "cloud": ["AWS", "Azure ML", "Terraform"],
+    "embedded": ["ESP32", "Arduino", "PLC"]
 }
 ```
 
-**Current Work:**  
-Building production-ready autonomous systems at **Flomobiity**
+**Interested in:** Physical AI • VLA Models • SLMs • Embodied RL
+
+**Currently:** Building autonomous systems @ **Flomobiity**
 
 </td>
 <td width="50%" valign="top">
