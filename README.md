@@ -115,6 +115,6 @@ skills = {
 
 <div align="center">
   
-*"Where AI meets the physical world"*
+*"Will love to connect and explore topics in AI and Robotics"*
 
 </div>
