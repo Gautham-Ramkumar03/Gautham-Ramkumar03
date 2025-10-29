@@ -2,7 +2,6 @@
 
 # Gautham Ramkumar
 
-**Robotics & AI Engineer @ Flomobiity**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Physical+AI+%7C+Embodied+Intelligence;Vision-Language-Action+Models;Reinforcement+Learning+%7C+Robotics" alt="Typing SVG" />
 
