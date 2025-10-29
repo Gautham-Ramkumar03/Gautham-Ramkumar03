@@ -36,7 +36,7 @@ skills = {
 
 **Interested in:** Physical AI • VLA Models • SLMs • Embodied RL
 
-**Currently:** Building autonomous systems @ **Flomobiity**
+**Currently:** Building autonomous systems 
 
 </td>
 <td width="50%" valign="top">
