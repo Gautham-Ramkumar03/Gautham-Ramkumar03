@@ -12,7 +12,7 @@
 
 ### Robotics Engineer @ [Flo Mobility](https://flomobility.com) · Bangalore
 
-*Shipping production state estimation and control for autonomous robots —*  
+*Shipping production state estimation and control for autonomous robots,*  
 *and teaching them to think for themselves.*
 
 </div>
@@ -21,23 +21,23 @@
 
 ## What I work on
 
-- **Localization & Mapping** — GPS-LiDAR fusion, SLAM, navigation through sensor-degraded environments
-- **State Estimation & Control** — MPPI, dynamic obstacle avoidance, robustness in the wild
-- **Physical / Embodied AI** — VLA models, diffusion policies, foundation models for navigation
-- **Production robotics** — autonomous ground vehicles deployed in the real world, not just sim
+- **Localization & Mapping** · GPS-LiDAR fusion, SLAM, navigation through sensor-degraded environments
+- **State Estimation & Control** · MPPI, dynamic obstacle avoidance, robustness in the wild
+- **Embodied / Physical AI** · Vision-Language-Action models, diffusion policies, foundation models for navigation
+- **Production robotics** · autonomous ground vehicles deployed in the real world, not just in sim
 
-> Currently obsessed with the gap between what robots *can* perceive and what they *should* decide.
+> Currently focused on the gap between what robots *can* perceive and what they *should* decide.
 
 <br>
 
-## Currently building
+## Currently building at Flo Mobility
 
-At **Flo Mobility**, I work across the stack — from low-level state estimation to high-level decision-making:
+Working across the stack, from low-level state estimation to high-level decision making.
 
-- GPS-LiDAR fusion via Thin-Plate Splines for seamless indoor ↔ outdoor transitions
+- GPS-LiDAR fusion via Thin-Plate Splines for seamless indoor/outdoor transitions
 - MPPI-based dynamic obstacle avoidance in cluttered environments
 - LiDAR-only navigation stack for GPS-denied operation
-- NoMaD / foundation-model-based topological navigation
+- NoMaD topological navigation using masked diffusion policies
 - ML data pipelines powering field-deployed perception models
 
 <br>
@@ -46,10 +46,10 @@ At **Flo Mobility**, I work across the stack — from low-level state estimation
 
 <p align="center">
 <a href="https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B00&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B00&text_color=FFFFFF" />
 </a>
 </p>
 
@@ -86,4 +86,32 @@ At **Flo Mobility**, I work across the stack — from low-level state estimation
 
 <sub>Open to research collaborations in embodied AI, SLAM, and learned control.</sub>
 
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
