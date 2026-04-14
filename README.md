@@ -46,10 +46,10 @@ Working across the stack, from low-level state estimation to high-level decision
 
 <p align="center">
 <a href="https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B00&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=tokyonight&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B00&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=tokyonight&hide_border=true&show_owner=false" />
 </a>
 </p>
 
