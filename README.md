@@ -2,9 +2,7 @@
 
 # Gautham Ramkumar
 
-**Localization · Mapping · State Estimation**  
-**Physical AI · Embodied Intelligence**  
-*Bringing decision-making to real robots.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Localization+%E2%80%A2+Mapping+%E2%80%A2+State+Estimation;Physical+AI+%E2%80%A2+Embodied+Intelligence;Bringing+decision-making+to+real+robots" alt="Typing SVG" />
 
 </div>
 
