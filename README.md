@@ -2,7 +2,9 @@
 
 # Gautham Ramkumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=Localization+%E2%80%A2+Mapping+%E2%80%A2+State+Estimation;Physical+AI+%E2%80%A2+Embodied+Intelligence;Bringing+decision-making+to+real+robots" alt="Typing SVG" />
+**Localization · Mapping · State Estimation**  
+**Physical AI · Embodied Intelligence**  
+*Bringing decision-making to real robots.*
 
 </div>
 
@@ -44,14 +46,21 @@ Working across the stack, from low-level state estimation to high-level decision
 
 ## Pinned work
 
-<p align="center">
-<a href="https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=deepstream-yolo-data-collection-toolkit&theme=dark&hide_border=true&show_owner=false" />
-</a>
-<a href="https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gautham-Ramkumar03&repo=Navigation-via-Masked-Diffusion-ROS2&theme=dark&hide_border=true&show_owner=false" />
-</a>
-</p>
+####  [deepstream-yolo-data-collection-toolkit](https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit)
+
+NVIDIA DeepStream + YOLO pipeline for automated dataset collection from live multi-camera feeds.
+
+[![Stars](https://img.shields.io/github/stars/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit?style=flat-square&logo=github&color=FF6B00&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit/stargazers)
+[![Language](https://img.shields.io/github/languages/top/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit?style=flat-square&logo=python&color=3776AB&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit)
+[![Last Commit](https://img.shields.io/github/last-commit/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit?style=flat-square&color=00F7FF&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/deepstream-yolo-data-collection-toolkit/commits)
+
+####  [Navigation-via-Masked-Diffusion-ROS2](https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2)
+
+ROS2 port of NoMaD: goal-conditioned topological navigation via masked diffusion policies.
+
+[![Stars](https://img.shields.io/github/stars/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2?style=flat-square&logo=github&color=FF6B00&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2/stargazers)
+[![Language](https://img.shields.io/github/languages/top/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2?style=flat-square&logo=python&color=3776AB&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2)
+[![Last Commit](https://img.shields.io/github/last-commit/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2?style=flat-square&color=00F7FF&labelColor=0D1117)](https://github.com/Gautham-Ramkumar03/Navigation-via-Masked-Diffusion-ROS2/commits)
 
 <br>
 
